@@ -1,0 +1,6 @@
+title: PianoFlow
+description: Unlock Your Musical Potential – One Key at a Time.
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
